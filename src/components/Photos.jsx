@@ -8,10 +8,10 @@ const Photos = () => {
           <p>Logo Team</p>
         </div>
         <div className="grid--item">
-          <img src="/mai-huong/img/logo.png"></img>
+          <img src="/img/logo.png"></img>
         </div>
         <div className="grid--item">
-          <img src="/mai-huong/img/summer2024.png"></img>
+          <img src="/img/summer2024.png"></img>
         </div>
         <div className="grid--item">
           <p>Summer 2024</p>
@@ -20,7 +20,7 @@ const Photos = () => {
           <p>Birthday Party</p>
         </div>
         <div className="grid--item">
-          <img src="/mai-huong/img/birthdayParty.png" />
+          <img src="/img/birthdayParty.png" />
         </div>
       </div>
     </div>

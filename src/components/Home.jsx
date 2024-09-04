@@ -13,13 +13,11 @@ const Home = () => {
                 </p>
                 <div className='home--img'>
                     <div>
-                    <img src='/mai-huong/img/pic1.jpg'  />
-                    <img src='/mai-huong/img/pic2.png'  />
+                    <img src='/img/pic1.jpg'  />
+                    <img src='/img/pic2.png'  />
                     </div>
                 </div>
               
-                
-                {/* Sử dụng thẻ <img> tự đóng */}
 
                 <p>Group 2023 - 2024</p>
             </div>
