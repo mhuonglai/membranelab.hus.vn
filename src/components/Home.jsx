@@ -13,8 +13,8 @@ const Home = () => {
                 </p>
                 <div className='home--img'>
                     <div>
-                    <img src='/img/pic1.jpg'  />
-                    <img src='/img/pic2.png'  />
+                    <img src='/mai-huong/img/pic1.jpg'  />
+                    <img src='/mai-huong/img/pic2.png'  />
                     </div>
                 </div>
               
