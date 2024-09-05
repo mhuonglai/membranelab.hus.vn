@@ -1,32 +1,32 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from "react";
+import { Link } from "react-router-dom";
 const navs = [
-    {
-      text: "Home",
-      link: "/home",
-    },
-    {
-      text: "Research",
-      link: "/research",
-    },
-    {
-      text: "Publications",
-      link: "/publication",
-    },
-    {
-      text: "Members",
-      link: "/member",
-    },
-    
-    {
-      text: "Photos",
-      link: "/photo",
-    },
-    {
-      text: "Contact",
-      link: "/contact",
-    },
-  ];
+  {
+    text: "Home",
+    link: "/home",
+  },
+  {
+    text: "Research",
+    link: "/research",
+  },
+  {
+    text: "Publications",
+    link: "/publication",
+  },
+  {
+    text: "Members",
+    link: "/member",
+  },
+
+  {
+    text: "Photos",
+    link: "/photo",
+  },
+  {
+    text: "Contact",
+    link: "/contact",
+  },
+];
 const Header = () => {
     return (
         <header className="header">
