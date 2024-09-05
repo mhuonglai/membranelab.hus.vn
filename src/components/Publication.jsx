@@ -8,7 +8,7 @@ const After2017 = () => {
           <b>2024</b>
           <p>
             1. Khanh Quang Tran, Chi Thi Khanh Nguyen, Quan Xuan Duong, Thu Thi
-            Tuyet Tran, <strong>Tho Hong Anh Ngo</strong> (2024), “Development of a
+            Tuyet Tran, <strong>Thu Hong Anh Ngo</strong> (2024), “Development of a
             Chitosan-based food packaging film with the incorporation of Pectin
             and Silver nanoparticles for improved antibacterial and physical
             properties”, ChemistrySelect
