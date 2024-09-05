@@ -33,7 +33,7 @@ const Header = () => {
         <div className="container">
           <div className="header--logo">
             <img src='/img/logo-no-background.svg'></img>
-            <p>Membrane Technology And Application Lab</p>
+            <p>Membrane Technology And Applications Lab</p>
           </div>
           <nav className="header--nav">
             <ul className="navtab">

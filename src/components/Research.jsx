@@ -5,7 +5,7 @@ const Research = () => {
     <div className="research">
         <div className="container">
 
-        <img src="/img/image.png" alt="" />
+        <img src="/img/research.png" alt="" />
         </div>
 
     </div>

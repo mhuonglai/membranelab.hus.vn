@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className='home'>
             <div className='container'>
-                <h2>Welcome to the MTAL Lab</h2>
+                <h2>Welcome To The Memb.Tech.Lab </h2>
                 <p>
                     <br /> Welcome to the Membrane Technology and Applications Lab, a leading research facility dedicated to advancing membrane science and engineering in Vietnam. We develop innovative materials and systems for water and wastewater treatment, food preservation, and beyond.
                     <br /> Our multidisciplinary team focuses on creating membranes with superior performance, antifouling properties, and chlorine resistance. We also utilize agricultural by-products to fabricate biodegradable packaging films and aim to produce antibacterial materials for wastewater and gas treatment.
